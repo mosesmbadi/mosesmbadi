@@ -28,11 +28,14 @@ Fullstack DevOps engineer with a keen interest on performance and reliability of
 
  <h1>Current Projects</h1>
   <div id="projects">
-    <h4> CodeAfetrWork</h4> 
       <a href="https://github.com/Code-AfterWork">
-        <img src="https://avatars.githubusercontent.com/u/132804863?s=400&u=ae47e57cd886414bbf881268eba84c9072aae40a&v=4" alt="CodeAfterWork Logo"/>
+        <h4> CodeAfetrWork</h4> 
       </a>
-    <p>Our goal is simple, but ambitious, learn DevOps by building real-world projects from Ideation to Production </p>
+        <p> Holistic approach towards learning (Inactive) </p>
+      <a href="https://github.com/PROTO-TYPE-SOLUTIONS/make-easy-hmis">
+        <h4> Make-Easy-HMIS</h4> 
+      </a>
+    <p> An integrable HMIS that serves as an all-in-one solution for healthcare facilities (Active) </p>
   </div>
 
 <!--
