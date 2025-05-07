@@ -1,6 +1,6 @@
 ### Hi there 👋
   <p1>
-Fullstack DevOps engineer with a keen interest on performance and reliability of business intelligence systems both on-premise and in the cloud. Specialized in API development, infrastracture provisioning, management and monitoring. Experienced in managing IT infrastracture and security.
+Software Engineer with 3+ years experience building, deploying and managing enterprise software on-prem and in the cloud. Expertise in backend development, systems architecture, DevOps Engineering and managing smaller teams.
 
 <h1>Tools</h1>
    <h3 align="left">Languages and Tools:</h3>
